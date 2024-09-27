@@ -1,8 +1,6 @@
 # Hi, I'm Kartheek 👋
 
-### Senior Backend Developer | Multi-CDN Platform Specialist | Python & Golang Enthusiast
-
-I specialize in backend development with extensive experience in cloud-based solutions, API development, and automation. My passion lies in building scalable and efficient systems while contributing to open-source projects and continuously improving my skillset.
+### Backend engineer specializing in Multi-CDN solutions, RESTful API design, and development using Python, Golang, and Redis in cloud environments
 
 ---
 
