@@ -1,6 +1,6 @@
 # Hi, I'm Kartheek 👋
 
-### Backend engineer specializing in Multi-CDN solutions, RESTful API design, and development using Python, Golang, and Redis in cloud environments
+### I’m a backend engineer with over 8 years of experience building and automating scalable systems, mainly using Python and Redis. I’ve also worked with Golang for the past 2 years. With a total of 15 years in software development, I’ve built backend solutions across both private and public cloud environments.
 
 ---
 
@@ -38,15 +38,27 @@
 
 ### 💡 **Key Expertise**
 
-- **Backend System Design & Development**: Extensive experience in designing and developing robust backend systems, ensuring scalability and performance.
-- **API & SDK Development**: Hands-on expertise in developing REST APIs and asynchronous SDKs with Python, primarily using Flask, FastAPI, and asyncio.
-- **Frontend Exposure**: Familiarity with frontend technologies including HTML, CSS, JavaScript, and React.js, providing a well-rounded perspective on full-stack development.
-- **Automation & Scripting**: Proficient in developing tools and automation scripts using Python and Perl to enhance operational efficiency.
-- **DevOps Practices**: Experienced in applying DevOps methodologies within feature teams following Agile practices, utilizing tools such as JIRA, Jenkins, Git, and CI/CD pipelines.
-- **Architectural Knowledge**: Strong understanding of RESTful and microservices architecture, facilitating effective system design and integration.
-- **Mentorship & Collaboration**: Actively mentored junior team members, guiding them in writing clean code and conducting code reviews to promote best practices.
-- **Innovative Solutions**: Led proof-of-concept (POC) initiatives to drive innovative solutions that align with business needs.
-- **Stakeholder Engagement**: Collaborated closely with senior managers and directors to gather and understand business and software requirements.
+🔧 Designed and developed backend systems focused on performance, scalability, and reliability
+
+🐍 8+ years of hands-on experience with Python, including REST API and automation scripting
+
+🧠 2 years of experience with Golang for background tasks and backend services
+
+💾 Used Redis (queues and streams) for background job processing
+
+🗃️ Experience with MySQL (relational data modeling) and InfluxDB (time-series statistics)
+
+☁️ Built solutions for both private and public cloud environments
+
+🔄 Automated backend workflows and internal tools using Python and Perl
+
+🔁 Followed Agile methodologies and implemented CI/CD pipelines using tools like Git, Jenkins, and GitHub Actions
+
+🧱 Worked with both monolithic and microservices architectures
+
+🧑‍🏫 Mentored junior developers and conducted regular code reviews
+
+🤝 Collaborated closely with teams and stakeholders to deliver business-aligned software
 
 ---
 
