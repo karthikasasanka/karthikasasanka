@@ -1,6 +1,7 @@
 # Hi, I'm Kartheek 👋
 
-### I’m a backend engineer with over 8 years of experience building and automating scalable systems, mainly using Python and Redis. I’ve also worked with Golang for the past 2 years. With a total of 15 years in software development, I’ve built backend solutions across both private and public cloud environments.
+### I’m a backend engineer with 9+ years of experience designing and building scalable systems, and 18+ years overall in agile software development.
+### My early career focused on automation and tooling using Perl, and over the past decade, I’ve specialized in Python, Redis, and more recently, Golang to power backend services and async workflows behind cloud-native applications deployed across private and public environments.
 
 ---
 
