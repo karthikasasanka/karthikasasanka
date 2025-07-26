@@ -38,27 +38,21 @@
 
 ### 💡 **Key Expertise**
 
-🔧 Designed and developed backend systems focused on performance, scalability, and reliability
+🔧 Designed and developed scalable backend systems and async workflows, optimized for performance and reliability.
 
-🐍 8+ years of hands-on experience with Python, including REST API and automation scripting
+🐍 9+ years of hands-on Python experience, including building REST APIs and backend services
 
-🧠 2 years of experience with Golang for background tasks and backend services
+🧠 2+ years of Golang experience building background job processors and backend services
 
-💾 Used Redis (queues and streams) for background job processing
+💾 Extensive experience using Redis (streams, queues, pub/sub) to support asynchronous processing and backend job coordination.
 
-🗃️ Experience with MySQL (relational data modeling) and InfluxDB (time-series statistics)
+🗃️ Worked with MySQL to design relational data and InfluxDB for time-series analytics
 
-☁️ Built solutions for both private and public cloud environments
+🧱 Experienced in building and maintaining both monolithic and microservices-based backend systems.
 
-🔄 Automated backend workflows and internal tools using Python and Perl
+🧑‍🏫 Mentored junior developers and conducted regular code reviews to uphold code quality.
 
-🔁 Followed Agile methodologies and implemented CI/CD pipelines using tools like Git, Jenkins, and GitHub Actions
-
-🧱 Worked with both monolithic and microservices architectures
-
-🧑‍🏫 Mentored junior developers and conducted regular code reviews
-
-🤝 Collaborated closely with teams and stakeholders to deliver business-aligned software
+🤝 Collaborated with cross-functional teams in Agile environments to deliver reliable, business-aligned backend solutions.
 
 ---
 
