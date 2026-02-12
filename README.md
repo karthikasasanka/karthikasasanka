@@ -1,6 +1,6 @@
 # Hi, I'm Kartheek 👋
 
-### I’m a backend engineer with 10+ years of experience designing and building scalable systems, and 18+ years overall in agile software development.
+### I’m a backend engineer with 18+ years of experience in agile software development, including over a decade designing and building scalable distributed systems.
 ### My early career focused on automation and tooling using Perl, and over the past decade, I’ve specialized in Python, Redis, and more recently, Golang to power backend services and async workflows behind cloud-native applications deployed across private and public environments.
 
 Maintainer of https://github.com/karsasdev
