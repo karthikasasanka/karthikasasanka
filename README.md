@@ -40,13 +40,11 @@ Maintainer of https://github.com/karsasdev
 
 ### 💡 **Highlights**
 
-- Senior Backend Engineer with 10+ years building scalable systems and 18+ years overall in software development.
-
-- Strong experience building backend services using Python, Go, Redis, MySQL, and InfluxDB
+- Strong experience building backend services with Python, Go, Redis, MySQL, and InfluxDB
 
 - Designed and maintained scalable backend systems, including monoliths and microservices
 
-- Built REST APIs in Python (Flask, FastAPI) and Go for real production use
+- Built production-grade REST APIs in Python (Flask, FastAPI) and Go
 
 - Worked on async and background jobs using Redis (queues, streams) and Go workers
 
